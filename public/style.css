@@ -1,0 +1,198 @@
+
+body{
+  background-color: rgb(253, 253, 253);
+}
+
+
+ .main{
+       /* display: flex;
+       flex-wrap: wrap !important;
+  */
+  
+
+  background-color: rgb(59, 103, 197) !important;
+ }
+    
+  .space{
+    border: 1px silver;
+    width: 500px;
+  }
+
+  .h1{
+       color: rgb(8, 8, 226);
+     }
+  .hed{
+    color: rgb(2, 114, 2);
+
+  }
+    .p1,.p2,.p3,.p4{
+      text-decoration: justify;
+      text-align:justify ;
+      margin:0 5em 0 5em ;
+      padding:1em 1em 1em 1em
+
+    }      
+
+
+    .twoo{
+      background-color: rgb(0, 81, 255);
+      margin-top: 5em;
+    }
+    .row{
+      
+      padding:3em 2em 3em 2em;
+
+    }
+    .r1{
+      padding:0.50em 0.50em 0.50em 0.50em;
+       
+      
+    }
+    
+    
+.uncl{
+  text-decoration: underline rgb(41, 124, 41);
+  text-underline-position: under;
+}
+
+
+
+.col-sm{
+  color: white;
+  font-style: italic;
+  
+  
+}
+
+
+.col{
+  /* border: 1px rgb(172, 171, 171) solid; */
+  display: inline-flex;
+  padding: 1em 1em 1em 1em; 
+  background-color: rgb(247, 244, 244);
+   /* width: 100px;
+  height: 100px;  */
+  /* margin-top: 2em; */
+}
+
+
+.heading{
+    color: rgb(52, 100, 255);
+    margin-top: 2em;
+    font-style: Impact, sans-serif;
+    
+
+}
+
+.u{
+  color: green;
+}
+.heading1{
+  color: blue;
+
+}
+.c4{
+  background-color: rgb(253, 251, 251);
+  display: flex;
+  display: inline-block;
+  width: 360px;
+  height: 180px;
+    padding: 2em 2em 2m 2em;
+  margin: 1em 1em 1em 1em ;  
+   -moz-box-shadow: 5px 5px 5px #696565;  
+    -webkit-box-shadow: 5px 5px 5px #696767; 
+     box-shadow: 5px 5px 5px #686868;
+       padding-top: 3em;
+     margin-left: 1em ; 
+    
+    }
+    .headings{
+      color: rgb(52, 100, 255);
+    }
+.four{
+   background-color: rgb(223, 221, 221);
+}
+
+
+
+.fl{
+  border: 2px solid white;
+  float: right; 
+   width: 320px;
+   height: 400px;
+   /* overflow: scroll; */
+    margin: 10px;
+    text-decoration: justify;
+      text-align:justify ;
+      margin:0 5em 0 5em ;
+      padding:1em 1em 1em 1em
+      
+      
+}
+
+.seven{
+  display: flex;
+  display: inline-block;
+  clear: both;
+  
+
+}
+
+.eight{
+  background-color: rgb(29, 28, 28);
+  display: flex;
+  color: white;
+  
+}
+
+
+.onee{
+  flex: 1;
+}
+.twooo{
+  flex: 1;
+  
+}
+.threee{
+  flex: 2;
+  
+} 
+.end{
+  background-color: rgb(13, 46, 231);
+}
+.lastt{
+  background-color: rgb(13, 46, 231);
+  width: 100%;
+}
+
+
+.first,.second,.third{
+  
+  align-items: center;
+  width: 300px;
+
+}
+
+.fix{
+
+  position: fixed;
+  bottom:10px;
+  right:20px;
+}
+
+
+/* .fixnav{
+  position: fixed !important;
+  top: 10px 0 0 0;
+  
+} */
+
+.container-fluid{
+  color: white;
+  background-color: rgb(39, 38, 38);  
+}
+
+
+
+
+
